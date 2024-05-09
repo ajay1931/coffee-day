@@ -1,0 +1,66 @@
+body {
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.landing {
+    background-image: url(bg\ img.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 120vh;
+    color: white;
+}
+
+header a {
+    text-decoration: none;
+    margin: 1em;
+
+
+}
+
+header {
+    display: flex;
+    padding: 1em;
+}
+
+h1 {
+    flex: 1;
+}
+
+nav a {
+    color: brown;
+
+}
+
+nav a:hover {
+    color: blue;
+}
+
+.maintext {
+    display: flex;
+    flex-direction: column;
+    height: 20vh;
+    justify-content: center;
+    padding: 5em;
+}
+
+.tagline1 {
+    font-size: 3em;
+    font-weight: bolder;
+    font-style: italic;
+    color: lightgreen;
+}
+
+.tagline2 {
+    margin-top: 1em;
+    padding: 1em;
+    color: #8b5e3c;
+}
+
+div button {
+    padding: 1em;
+    border-radius: 10px;
+    width: 20%;
+    background-color:yellow;
+}
