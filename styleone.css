@@ -38,3 +38,6 @@ body{
 a:hover{
     color: red;
 }
+a{
+    color: aliceblue;
+}
