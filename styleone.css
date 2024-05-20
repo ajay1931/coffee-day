@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+header{
+    text-align: center;
+    padding: 1em;
+}
+h3{
+    margin-top: 1em;
+    color:#8b5e3c;
+}
+h1{
+    text-align: center;
+    padding: .5em;
+    color: lightgreen;
+}
+table{
+    padding-left: 22em;
+    padding-top: 2em;
+    
+}
+iframe{
+    padding-left: 15em;
+    padding-top: 3em;
+}
+footer{
+    text-align: center;
+    padding-top: 2em;
+}
+body{
+    background-image: url(bgimg1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 60em;
+    color:aliceblue;
+}
+a:hover{
+    color: red;
+}

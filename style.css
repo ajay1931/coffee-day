@@ -52,8 +52,6 @@ button {
     border-radius: 10px;
     width: fit-content;
     background-color: yellow;
-
-
 }
 
 button:hover {
@@ -67,4 +65,11 @@ footer {
     text-align: center;
     background-color: rgb(200, 194, 194);
     padding: 1em;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+a:hover{
+    color: white;
 }
