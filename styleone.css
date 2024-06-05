@@ -18,11 +18,14 @@ h1{
 table{
     padding-left: 22em;
     padding-top: 2em;
+   
     
 }
+
 iframe{
     padding-left: 15em;
     padding-top: 3em;
+    text-align: center;
 }
 footer{
     text-align: center;
