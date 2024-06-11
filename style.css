@@ -2,9 +2,7 @@ body {
     margin: 0%;
     font-family: Arial, Helvetica, sans-serif;
     background-color: black;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
+
 }
 
 .landing {
@@ -67,6 +65,7 @@ footer {
     text-align: center;
     background-color: rgb(200, 194, 194);
     padding: 1em;
+
 }
 
 a {
