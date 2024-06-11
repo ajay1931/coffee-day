@@ -15,16 +15,14 @@ h1{
     padding: .5em;
     color: lightgreen;
 }
-table{
-    padding-left: 22em;
-    padding-top: 2em;
-   
-    
+.form{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
 
-iframe{
-    padding-left: 15em;
-    padding-top: 3em;
+#iframe{
+    padding-top: 5em;
     text-align: center;
 }
 footer{
